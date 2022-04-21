@@ -8,8 +8,8 @@ Kembangkan web Tugas 1 (Data Diri) yang pernah anda kerjakan dengan perintah seb
 -------------------------------
 Creator :
 - Nama  : M. Thoriq Al Fajri
-- NPM   : 2057051002
-- Kelas : C
+- NPM    : 2057051002
+- Kelas  : C
 
 -------------------------------
 
