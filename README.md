@@ -7,8 +7,8 @@ Kembangkan web Tugas 1 (Data Diri) yang pernah anda kerjakan dengan perintah seb
 
 -------------------------------
 
-Nama  : M. Thoriq Al Fajri
-NPM   : 2057051002
-Kelas : C
+- Nama  : M. Thoriq Al Fajri
+- NPM   : 2057051002
+- Kelas : C
 
 -------------------------------
