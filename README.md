@@ -6,7 +6,7 @@ Kembangkan web Tugas 1 (Data Diri) yang pernah anda kerjakan dengan perintah seb
 - Selanjutnya silakan tambah apapun sekreatif mungkin, contoh : membuat halaman baru, menambahkan komponen seperti Navbar, dll.
 
 -------------------------------
-
+Creator :
 - Nama  : M. Thoriq Al Fajri
 - NPM   : 2057051002
 - Kelas : C
