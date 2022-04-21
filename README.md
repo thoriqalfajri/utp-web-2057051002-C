@@ -12,3 +12,11 @@ Kembangkan web Tugas 1 (Data Diri) yang pernah anda kerjakan dengan perintah seb
 - Kelas : C
 
 -------------------------------
+
+![image](https://user-images.githubusercontent.com/83461390/164374077-73977cde-bf2f-4dd4-a2d7-792111489215.png)
+
+-------------------------------
+
+![image](https://user-images.githubusercontent.com/83461390/164374145-0e32b3aa-69dc-4a4f-9a2a-5d9167abb4cf.png)
+
+-------------------------------
